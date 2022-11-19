@@ -1,21 +1,18 @@
-# Exercise-05b-Procedural-Generation
 
-Exercise for MSCH-C220
+# Project 5 FPS Maze
+For class, 11/19/2022
 
-An implementation of a procedurally-generated 3D maze. Also, a simple in-game menu.
+a small game where you go through a maze.
 
 ## Implementation
-
-Built using Godot 3.5
+-randomly generated maze
+-cursor is bound to screen, unless the game is paused.
 
 ## References
-
 This project is an adaptation of the excellent tutorial from [KidsCanCode](https://kidscancode.org/blog/2018/08/godot3_procgen1/)
 
 ## Future Development
+none planned.
 
-None
-
-## Created by 
-
+## Created by
 Nicholas Heneisen
